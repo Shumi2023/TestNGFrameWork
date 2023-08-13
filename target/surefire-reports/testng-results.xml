@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-07T12:21:04 CDT" name="Suite" finished-at="2023-08-07T12:21:33 CDT" duration-ms="29214">
+    <groups>
+    </groups>
+    <test started-at="2023-08-07T12:21:04 CDT" name="Test" finished-at="2023-08-07T12:21:33 CDT" duration-ms="29214">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@3b938003]" started-at="2023-08-07T12:21:04 CDT" name="setup" finished-at="2023-08-07T12:21:12 CDT" duration-ms="8596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@3b938003]" started-at="2023-08-07T12:21:12 CDT" name="login" data-provider="LoginData" finished-at="2023-08-07T12:21:15 CDT" duration-ms="2492" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shawnc850@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sumis2007]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Successfull]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@3b938003]" started-at="2023-08-07T12:21:15 CDT" name="teardown" finished-at="2023-08-07T12:21:15 CDT" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@3b938003]" started-at="2023-08-07T12:21:15 CDT" name="setup" finished-at="2023-08-07T12:21:21 CDT" duration-ms="5222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.LoginTest@3b938003]" started-at="2023-08-07T12:21:21 CDT" name="login" data-provider="LoginData" finished-at="2023-08-07T12:21:33 CDT" duration-ms="12158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummy@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failure]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@3b938003]" started-at="2023-08-07T12:21:33 CDT" name="teardown" finished-at="2023-08-07T12:21:33 CDT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.RegisterTest">
+        <test-method signature="TestTwo()[pri:0, instance:tests.RegisterTest@53ca01a2]" started-at="2023-08-07T12:21:04 CDT" name="TestTwo" finished-at="2023-08-07T12:21:04 CDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTwo -->
+      </class> <!-- tests.RegisterTest -->
+      <class name="tests.SearchTest">
+        <test-method signature="TestThree()[pri:0, instance:tests.SearchTest@1460a8c0]" started-at="2023-08-07T12:21:33 CDT" name="TestThree" finished-at="2023-08-07T12:21:33 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThree -->
+      </class> <!-- tests.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

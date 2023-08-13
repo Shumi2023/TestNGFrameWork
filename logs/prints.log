@@ -1,0 +1,20 @@
+12:15:17.230 [main] DEBUG tests.LoginTest - Browser got launched
+12:15:20.950 [main] DEBUG tests.LoginTest - Typed email address
+12:15:21.056 [main] DEBUG tests.LoginTest - Typed password
+12:15:21.855 [main] DEBUG tests.LoginTest - Login button got clicked
+12:15:22.212 [main] DEBUG tests.LoginTest - Browser got closed
+12:15:24.424 [main] DEBUG tests.LoginTest - Browser got launched
+12:15:28.297 [main] DEBUG tests.LoginTest - Typed email address
+12:15:28.396 [main] DEBUG tests.LoginTest - Typed password
+12:15:28.989 [main] DEBUG tests.LoginTest - Login button got clicked
+12:15:39.315 [main] DEBUG tests.LoginTest - Browser got closed
+20:52:04.964 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Browser got launched
+20:52:13.943 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Typed email address
+20:52:14.051 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Typed password
+20:52:15.005 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Login button got clicked
+20:52:15.823 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Browser got closed
+20:52:21.839 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Browser got launched
+20:52:27.218 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Typed email address
+20:52:27.312 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Typed password
+20:52:27.876 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Login button got clicked
+20:52:38.146 [TestNG-test=LoginTest-1] DEBUG tests.LoginTest - Browser got closed
